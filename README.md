@@ -8,7 +8,7 @@ Staj sürecinde Java ve Spring Boot kullanılarak geliştirilen, kurum içindeki
 
 Proje; işlerin oluşturulması ve takip edilmesi, müşterilerin ve personelin yönetilmesi, görev/rol ilişkilerinin oluşturulması ve işlerin durumlarının izlenmesi gibi süreçleri tek bir sistem üzerinden yönetmeyi amaçlamaktadır.
 
-Proje ticari olarak kullanıldığı ve başka bir kuruluşun kullanımına sunulduğu için **kaynak kodu, gerçek arayüz ekran görüntüleri, müşteri/kurum bilgileri ve uygulamaya özgü yapılandırmalar bu repository'de paylaşılmamaktadır.**
+Proje ticari kullanımda olduğu için kaynak kodu, gerçek arayüz ekran görüntüleri, müşteri/kurum bilgileri ve uygulamaya özgü yapılandırmalar bu repository'de paylaşılmamaktadır.
 
 Bu repository yalnızca yaptığım çalışmayı ve teknik kapsamı göstermek amacıyla hazırlanmış **gizlilik uyumlu portföy dokümantasyonudur.**
 
@@ -107,6 +107,6 @@ Bu proje sayesinde özellikle:
 - CRUD uygulamaları
 - Rol ve yetki mantığı
 - İş takip sistemlerinin tasarlanması
-- Gerçek bir ticari yazılım projesinde geliştirme süreçleri
+- Ticari bir yazılım projesinde geliştirme süreçleri
 
 konularında deneyim kazandım.
